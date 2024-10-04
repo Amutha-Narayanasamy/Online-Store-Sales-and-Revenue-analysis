@@ -22,8 +22,11 @@ This project help a online store to review their revenue and sales data to prepa
 ### Findings and Insights
 
 -Enhancing Customer loyalty programs and marketing campaigns to retain the high frequency customers in the market. 
+
 -Study monthly and yearly sales to optimize strategies for regions and countries performing well each month. Promoting seasonal and event based promotions to increase the sales in the months
+
 -Increase sales across product categories by focusing on pricing, market trends, quality, variety, marketing, and customer experience.
+
 -The sales forecast highlights the impact of marketing efforts on revenue. Improving customer experience and refining marketing strategies in lower-performing countries will boost sales, satisfaction, and customer retention
 
 
